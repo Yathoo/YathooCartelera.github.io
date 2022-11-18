@@ -1,0 +1,127 @@
+#poster{
+    padding: 0;
+    margin: 0;
+
+}
+
+#cont{
+    padding: 60px 0 !important;
+    width: 90% !important;
+    max-width: 100% !important;
+    margin: auto;
+    overflow: hidden;
+    }
+
+#hora{
+    font-weight: bold;
+    background: #E4DEDD;
+    text-align: center;
+   
+}    
+
+#funciones{
+    font-weight: bold;
+    background: #908888;
+    text-align: center;
+ }   
+
+#dia{
+    font-weight: bold;
+    color: white;
+     background: #8E0E00;  
+background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  / Chrome 10-25, Safari 5.1-6 /
+background: linear-gradient(to right, #1F1C18, #8E0E00); / W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    transition: all 0.5s ease;
+     font-weight: bold;
+    text-align: center;
+}
+    
+#aviso{
+font-weight: bold;
+    text-align: center;
+ }  
+
+
+ #precios{
+    font-weight: bold;
+    background: #908888;
+   
+   }
+
+ #des {
+    font-size: 18px;
+    color:white;
+   font-weight: bold;
+     background: #8E0E00;  
+background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  / Chrome 10-25, Safari 5.1-6 /
+background: linear-gradient(to right, #1F1C18, #8E0E00); / W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    transition: all 0.5s ease;
+    
+    text-align: center;
+   
+} 
+
+
+#des1 {
+    
+     font-weight: bold;
+    text-align: center;
+    color:black;
+}
+
+#Hmodal{
+    font-family: 'Stint Ultra Condensed', serif;
+    color:white;
+    font-weight: bold;
+    background: #8E0E00;  
+background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  / Chrome 10-25, Safari 5.1-6 /
+background: linear-gradient(to right, #1F1C18, #8E0E00); / W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+} 
+
+.boton2{
+        
+    text-decoration: none;
+    display:inline-block;
+    color:black;
+   background: #8E0E00;  
+background: -webkit-linear-gradient(to right, #1F1C18, #8E0E00);  / Chrome 10-25, Safari 5.1-6 /
+background: linear-gradient(to right, #1F1C18, #8E0E00); / W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    transition: all 0.5s ease;
+    
+    box-shadow: #ccc;
+    box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.8);
+
+  }
+
+  .boton2:hover{
+        
+     color:black;
+     background: white;
+     border: 3px solid darkred;
+     box-shadow:NONE;
+        
+  }
+
+  #bol{
+    font-weight: bold;
+    text-align: left;
+}
+
+#bol1{
+     font-weight: bold;
+    text-align: right;
+}
+
+body{
+     
+     font-family:  sans-serif;
+
+}
+
+#estreno{
+
+  font-weight: bold;
+  font-family: 'Stint Ultra Condensed', cursive;
+
+}
